@@ -80,7 +80,7 @@ body {
   position:relative;
   width: 200px;
   height: 55px;
-  margin:10px;
+  margin:10px !important ;
 }
 
 .container .bttn a
